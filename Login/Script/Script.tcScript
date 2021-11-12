@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="logFileExportDT" key="{26098AFE-8C9F-4A3E-B711-C3F5AB3629D0}" path="logFileExportDT.py" />
+	</children>
+</Root>
